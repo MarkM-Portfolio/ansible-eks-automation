@@ -1,0 +1,8 @@
+**/.travis.yml linguist-language=Ansible linguist-vendored=false
+**/main.yml linguist-language=Ansible linguist-vendored=false
+**/test.yml linguist-language=Ansible linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.ini linguist-language=Ini linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.py linguist-language=Python linguist-vendored=false
+*.yml linguist-language=YAML linguist-vendored=false
